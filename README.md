@@ -1,4 +1,4 @@
-# Primeiras Atividades/anotações em Python
+# Estudos em Python
 
 Este notebook mostra as minhas primeiras atividades/anotações
 em Python. Foram feitos estudos dos mais diversos na linguagem.
